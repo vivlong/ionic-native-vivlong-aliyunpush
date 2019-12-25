@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-vivlong-aliyunpush",
+  "name": "ionic-native-vivlong-aliyunpush",
   "version": "1.0.0",
   "description": "",
   "module": "index.js",
   "typings": "index.d.ts",
-  "repository": "https://github.com/vivlong/cordova-plugin-vivlong-aliyunpush.git",
+  "repository": "https://github.com/vivlong/ionic-native-vivlong-aliyunpush.git",
   "author": "vivlong <vivlong@gmail.com>",
   "license": "MIT",
   "scripts": {

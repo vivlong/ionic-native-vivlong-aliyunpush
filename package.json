@@ -1,6 +1,6 @@
 {
   "name": "ionic-native-vivlong-aliyunpush",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "module": "index.js",
   "typings": "index.d.ts",
@@ -9,9 +9,5 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "peerDependencies": {
-    "@ionic-native/core": "^5.1.0",
-    "@angular/core": "*"
   }
 }

@@ -4,11 +4,11 @@ import { IonicNativePlugin } from '@ionic-native/core';
  * @description
  * This plugin is used for AliyunPush support. Integrated with the latest SDK.
  *
- * Requires Cordova plugin: `cordova-plugin-aliyunpush`.
+ * Requires Cordova plugin: `cordova-plugin-vivlong-aliyunpush`.
  *
  * @usage
  * ```typescript
- * import { AliyunPush } from '@ionic-native/aliyunpush';
+ * import { AliyunPush } from 'ionic-native-vivlong-aliyunpush';
  *
  * constructor(private aliyunPush: AliyunPush) {
  *
